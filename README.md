@@ -1,6 +1,6 @@
 # DashBoard-Of-Coffee-Orders-With-Excel
 
-![image alt](image_url)
+![image alt]([image_url](https://github.com/iammigjoe/DashBoard-Of-Coffee-Orders-With-Excel/blob/main/dashboard.png?raw=true))
 This project focuses on analyzing an Excel file containing three tables: Customers, Products, and Orders. The goal was to build a complete interactive dashboard to visualize coffee sales by time, by country, and identify the top buyers.
 
 🔍 Data Used
